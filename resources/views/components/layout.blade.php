@@ -24,7 +24,7 @@
     <header>
         <nav class="fixed top-0 left-0 right-0 bg-red-50 shadow-md z-50">
             <div class="container mx-auto p-3 flex justify-between items-center">
-                <h1 class="text-lg font-bold">Shaqu's Project</h1>
+                <h1 class="text-lg font-bold">Training Project</h1>
                 <div class="flex items-center">
                     <a href="/homepage" class="me-3 text-gray-700 hover:text-blue-500">Expense Tracker</a>
                     <a href="/getPluginTemplate" class="me-3 text-gray-700 hover:text-blue-500">Template Page</a>
